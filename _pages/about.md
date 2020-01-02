@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: 
-excerpt: 
+excerpt: About me 
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,13 +17,11 @@ In general, I'm interested in the intersection of machine learning, impactful an
 
 
 ## Education
-======
 * M.S. Data Science, University of Washington, 2020 (Expected)
 * B.S. Bioengineering, University of Pennsylvania, 2012
 
 
 ## Professional Experience
-======
 * Product Analyst Intern @ Google
 * Data Scientist @ Memorial Sloan Kettering Cancer Center
 * Actuarial Consultant @ Aon 
