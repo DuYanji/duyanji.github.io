@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: 
-excerpt: About me 
+title: "Hi!"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Hi!
 
 I'm a data scientist currently studying at the University of Washington. Right now, I'm working on an investigation of semi-supervised image classification tasks within a [Federated Learning](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) framework, in sponsorship with Brendan McMahan's group at Google AI. 
 
