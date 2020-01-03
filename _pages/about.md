@@ -14,7 +14,7 @@ I'm interested in the intersection of machine learning, impactful analytics, and
 
 ## Project Portfolio @ UW
 
-***Federated Learning for Landmark Recognition*** _(in progress)_
+***Federated Learning for Landmark Recognition*** [_in progress_]
 * Investigating semi-supervised image classification tasks within federated learning framework. 
 * `Keywords: TensorFlow, Federated Learning, Privacy, Machine Learning, Image Classification`
 
