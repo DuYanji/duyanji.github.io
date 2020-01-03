@@ -12,34 +12,35 @@ I'm a data scientist currently studying at the University of Washington. Right n
 
 I'm interested in the intersection of machine learning, impactful analytics, and strategic planning. I have experience in data science and analytics in the technology and healthcare industries. 
 
-## Selected Project Portfolio
+## Project Portfolio @ UW
 
-Federated Learning for Landmark Recognition (in progress)
-* Investigating semi-supervised image classification tasks with federated learning framework; in sponsorship with Google AI. * Keywords: TensorFlow, Federated Learning, Privacy, Machine Learning, Image Classification
+Federated Learning for Landmark Recognition _(in progress)_
+* Investigating semi-supervised image classification tasks with federated learning framework. 
+* Keywords: TensorFlow, Federated Learning, Privacy, Machine Learning, Image Classification
 
-Can you convince me?
+Can you convince me? \[[Report](https://github.com/geoffreyli/reddit-cmv/raw/master/report.pdf)\] \[[GitHub](https://github.com/geoffreyli/reddit-cmv)\]
 * Machine learning analysis of likelihood of argumentative persuasion leveraging graph-based user similarity, on users of r/ChangeMyView with dataset of 1.6B comments.
-* Keywords: Python, Apache Spark, Google BigQuery, SimRank, Graph Analysis
+* `Keywords: Python, Apache Spark, Google BigQuery, SimRank, Graph Analysis`
 
-ArtNet
+ArtNet \[[Report](https://github.com/geoffreyli/ArtNet/raw/master/doc/Project%20Final%20Report.pdf)\] \[[GitHub](https://github.com/geoffreyli/ArtNet)\]
 * Enhancement of Neural Style Transfer technique using Convolutional Neural Networks.
-* Keywords: PyTorch, Google Colab, Deep Learning, Neural Style Transfer
+* `Keywords: PyTorch, Google Colab, Deep Learning, Neural Style Transfer`
 
-Statistical Machine Learning
+Statistical Machine Learning \[[GitHub](https://github.com/geoffreyli/statistical-machine-learning)\]
 * Implementation of machine learning and gradient descent algorithms from scratch using Python for DATA558.
-* Keywords: Linear Regression, Logistic Regression, Gradient Descent, Kernel Support Vector Machine, Principal Component Analysis, Cross Validation, Multi-class Classification, L2- and L1-regularization
+* `Keywords: Linear Regression, Logistic Regression, Gradient Descent, Kernel Support Vector Machine, Principal Component Analysis, Cross Validation, Multi-class Classification, L2- and L1-regularization`
 
-Machine Learning for Big Data
+Machine Learning for Big Data \[[GitHub](https://github.com/geoffreyli/machine-learning-for-big-data)\]
 * Implementation of large scale machine learning algorithms from scratch using Python and Spark for CSE547.
-* Keywords: Spark, Market Basket Analysis, Recommendation Systems, Locality-Sensitive Hashing, Principal Component Analysis, k-means Clustering, PageRank and HITS, Dense Communities in Networks, Decision Tree Learning, Data Streaming Algorithms
+* `Keywords: Spark, Market Basket Analysis, Recommendation Systems, Locality-Sensitive Hashing, Principal Component Analysis, k-means Clustering, PageRank and HITS, Dense Communities in Networks, Decision Tree Learning, Data Streaming Algorithms`
 
-Early Childhood Education Factor Analysis
+Early Childhood Education Factor Analysis \[[Report](https://github.com/geoffreyli/ecls/raw/master/doc/DATA_557_Final_Project_Report.pdf)\] \[[GitHub](https://github.com/geoffreyli/ecls)\]
 * Hypothesis testing of relationship between childhood behavioral and socioeconomic factors and academic performance.
-* Keywords: R, Linear Regression, Hypothesis Testing
+* `Keywords: R, Linear Regression, Hypothesis Testing`
 
-Yelpagram
-* 
-* Keywords: Tableau, Data Visualization 
+Yelpagram \[[Tableau](https://public.tableau.com/profile/geoffrey.li#!/vizhome/yelpagram_vF/Yelpagram)\]
+* Data visualization prototype for Yelp influencer platform, aimed at building user trust, combatting fake reviews, and consolidating information to reduce cognitive load.
+* `Keywords: Tableau, Data Visualization`
 
 
 ## Education
