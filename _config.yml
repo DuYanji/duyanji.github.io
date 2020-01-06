@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Geoffrey Li"
 title_separator          : "-"
 name                     : &name "Geoffrey Li"
-description              : &description "M.S. Data Science @ University of Washington"
+description              : &description "M.S. Data Science @ UW"
 url                      : https://geoffreyli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "geoffreyli/geoffreyli.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Geoff"
   avatar           : "grumpy-wave-cat.jpg"
-  bio              : "M.S. Data Science @ University of Washington"
-  location         : "Seattle, WA / New York, NY"
+  bio              : "M.S. Data Science @ UW"
+  location         : "Seattle, WA"
   employer         :
   pubmed           : 
   googlescholar    : 
