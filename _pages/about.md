@@ -12,7 +12,7 @@ I'm currently a Data Scientist at Lyft. I'm interested in the intersection of ma
 
 ## Project Portfolio @ UW
 
-***Federated Semi-supervised and Transfer Learning*** \[Report](https://github.com/r-o-s-h-a-n/semisupervisedFL/raw/master/Capstone%20Report.pdf) \[Slides](https://github.com/r-o-s-h-a-n/semisupervisedFL/raw/master/Final%20Presentation.pdf) \[GitHub](https://github.com/r-o-s-h-a-n/semisupervisedFL)
+***Federated Semi-supervised and Transfer Learning*** \[[Report](https://github.com/r-o-s-h-a-n/semisupervisedFL/raw/master/Capstone%20Report.pdf)\] \[[Slides](https://github.com/r-o-s-h-a-n/semisupervisedFL/raw/master/Final%20Presentation.pdf)\] \[[GitHub](https://github.com/r-o-s-h-a-n/semisupervisedFL)\]
 * Empirical investigation of semi-supervised image classification tasks within [federated learning](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) framework, in sponsorship with Brendan McMahan's group at Google AI.
 * `Keywords: TensorFlow, Federated Learning, Privacy, Machine Learning, Image Classification, Semi-supervised Learning`
 
