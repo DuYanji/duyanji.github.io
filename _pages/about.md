@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a data scientist currently studying at the University of Washington. I'm interested in the intersection of machine learning, impactful analytics, and product strategy. Right now, I'm working on an investigation of semi-supervised image classification tasks within a [Federated Learning](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) framework, in sponsorship with Brendan McMahan's group at Google AI. 
-
+I'm currently a Data Scientist at Lyft. I'm interested in the intersection of machine learning, impactful analytics, and product strategy. 
 
 ## Project Portfolio @ UW
 
-***Federated Learning for Landmark Recognition*** [_in progress_]
-* Investigating semi-supervised image classification tasks within federated learning framework. 
-* `Keywords: TensorFlow, Federated Learning, Privacy, Machine Learning, Image Classification`
+***Federated Semi-supervised and Transfer Learning*** \[Report](https://github.com/r-o-s-h-a-n/semisupervisedFL/raw/master/Capstone%20Report.pdf) \[Slides](https://github.com/r-o-s-h-a-n/semisupervisedFL/raw/master/Final%20Presentation.pdf) \[GitHub](https://github.com/r-o-s-h-a-n/semisupervisedFL)
+* Empirical investigation of semi-supervised image classification tasks within [federated learning](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) framework, in sponsorship with Brendan McMahan's group at Google AI.
+* `Keywords: TensorFlow, Federated Learning, Privacy, Machine Learning, Image Classification, Semi-supervised Learning`
 
 ***Can you convince me?*** \[[Report](https://github.com/geoffreyli/reddit-cmv/raw/master/report.pdf)\] \[[GitHub](https://github.com/geoffreyli/reddit-cmv)\]
 * Machine learning analysis of likelihood of argumentative persuasion leveraging graph-based user similarity, on users of r/ChangeMyView with large-scale dataset of over 1.6B comments.
@@ -43,11 +42,12 @@ I'm a data scientist currently studying at the University of Washington. I'm int
 
 
 ## Education
-* M.S. Data Science, University of Washington (Expected)
+* M.S. Data Science, University of Washington
 * B.S. Bioengineering, University of Pennsylvania
 
 
 ## Professional Experience
+* Data Scientist @ Lyft
 * Product Analyst Intern @ Google
 * Data Scientist @ Memorial Sloan Kettering Cancer Center
 * Actuarial Consultant @ Aon 
