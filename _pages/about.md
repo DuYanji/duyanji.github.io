@@ -22,8 +22,8 @@ I'm currently a Master student in Quantative Methods in Social Sciences program 
 * Using theory-based approach to propose staple food prices as a measurable and real-time proxy indicator for undernourishment to  provide timely insight to the progress of UN SDGs in Indonesia.
 * `Keywords: United Nations, Sustainable Development Goals, Prevelance of Undernurtrishment, Staple Food Price, Indonesia`
 
-***Using Text Analysis of World News Headlines to Predict Stock Market Movement*** \[[Report](https://github.com/geoffreyli/ArtNet/raw/master/doc/Project%20Final%20Report.pdf)\] \[[GitHub](https://github.com/geoffreyli/ArtNet)\]
-*Text analysis of world news headlines to predict stock market movement. Empirical investigation of ML model performance on datasets where the number of dimensions is far greater than the number of observations ( p >> n ). 
+***Using Text Analysis of World News Headlines to Predict Stock Market Movement*** \[[Report](https://github.com/DuYanji/duyanji.github.io/raw/master/files/daily-news-stock-market-prediction.pdf)\] \[[GitHub](https://github.com/geoffreyli/ArtNet)\]
+* Text analysis of world news headlines to predict stock market movement. Empirical investigation of ML model performance on datasets where the number of dimensions is far greater than the number of observations ( p >> n ). 
 * `Keywords: Python, Machine Learning, Text Analysis`
 
 
