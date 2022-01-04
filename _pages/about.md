@@ -18,7 +18,7 @@ I'm currently a Master student in Quantative Methods in Social Sciences program 
 * Analysis of Yelp reviews during the COVID-19 pandemic. Methods included text processing, sentiment analysis (VADER; TextBlob), topic modeling (Latent Dirichlet Allocation)
 * `Keywords: NLP, Python, Machine Learning, COVID-19`
 
-***UN SDG Indicator Proxies*** \[[Report](https://github.com/DuYanji/duyanji.github.io/raw/master/files/SDG_ProxyIndicators.Blog.docx.pdf)\]\[[Slides](https://github.com/DuYanji/duyanji.github.io/raw/master/files/UN SDG Indicator Proxies.pptx.pdf)\] 
+***UN SDG Indicator Proxies*** \[[Report](https://github.com/DuYanji/duyanji.github.io/raw/master/files/SDG_ProxyIndicators.Blog.docx.pdf)\] \[[Slides](https://github.com/DuYanji/duyanji.github.io/raw/master/files/UN_SDG_Indicator_Proxies.pptx.pdf)\]
 * Using theory-based approach to propose staple food prices as a measurable and real-time proxy indicator for undernourishment to  provide timely insight to the progress of UN SDGs in Indonesia.
 * `Keywords: United Nations, Sustainable Development Goals, Prevelance of Undernurtrishment, Staple Food Price, Indonesia`
 
