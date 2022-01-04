@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I'm currently a Master student in Quantative Methods in Social Sciences program at Columbia University. I'm interested in the intersection of online misinfomation, impactful for social goods, Natural Language Processing and its applictaion in social sciences. 
+I'm currently a Master student in Quantative Methods in Social Sciences program at Columbia University. I'm interested in the intersection of online misinfomation, impactful analytics for social good, natural language processing and its applictaion in social sciences. 
 
 ## Project Portfolio @ Columbia & UW
 
