@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+Testing 1 2 3
+
+
 I'm currently a Data Scientist at Lyft, and recently graduated from a Master's degree in Data Science at the University of Washington. I'm interested in the intersection of machine learning, impactful analytics, and product strategy. 
 
 ## Project Portfolio @ UW
