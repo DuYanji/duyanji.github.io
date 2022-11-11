@@ -12,7 +12,7 @@ redirect_from:
 
 I'm currently a Master's student in Quantitative Methods in the Social Sciences program at Columbia University. My research interests are in immigration, social inequality, discrimination, misinformation, quantitative methods, and experiment design.
 
-## Project Portfolio @ Columbia & UW
+## Project Portfolio @ Columbia University
 
 ***Evaluation of neural network-based heterogeneous treatment effect estimation methods in survey experiments*** \[[Report](https://github.com/DuYanji/dragonnet-performance-evaluation/raw/main/Evaluation%20of%20neural%20network-based%20heterogeneous%20treatment%20effect%20estimation%20methods%20in%20survey%20experiments.pdf)\]
 * Evaluated performance and reliability of Dragonnet, a novel neural network-based architecture, in the domain of heterogeneous treatment effect (HTE) estimation using (1) simulation studies and (2) survey experiment data. 
@@ -31,6 +31,8 @@ I'm currently a Master's student in Quantitative Methods in the Social Sciences 
 ***UN SDG Indicator Proxies*** \[[Report](https://github.com/DuYanji/duyanji.github.io/raw/master/files/SDG_ProxyIndicators.Blog.docx.pdf)\] \[[Slides](https://github.com/DuYanji/duyanji.github.io/raw/master/files/UN_SDG_Indicator_Proxies.pptx.pdf)\]
 * Using theory-based approach to propose staple food prices as a measurable and real-time proxy indicator for undernourishment to  provide timely insight to the progress of UN SDGs in Indonesia.
 * Keywords: `United Nations`, `Sustainable Development Goals`, `Prevelance of Undernourishment`, `Staple Food Price`, `Indonesia`
+
+## Project Portfolio @ University of Washington
 
 ***Using Text Analysis of World News Headlines to Predict Stock Market Movement*** \[[Report](https://github.com/DuYanji/duyanji.github.io/raw/master/files/daily-news-stock-market-prediction.pdf)\] 
 * Text analysis of world news headlines to predict stock market movement. Empirical investigation of ML model performance on datasets where the number of dimensions is far greater than the number of observations ( p >> n ). 
