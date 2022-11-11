@@ -15,8 +15,8 @@ I'm currently a Master's student in Quantitative Methods in the Social Sciences 
 ## Project Portfolio @ Columbia University
 
 ***Evaluation of neural network-based heterogeneous treatment effect estimation methods in survey experiments*** \[[Report](https://github.com/DuYanji/dragonnet-performance-evaluation/raw/main/Evaluation%20of%20neural%20network-based%20heterogeneous%20treatment%20effect%20estimation%20methods%20in%20survey%20experiments.pdf)\]
-* Evaluated performance and reliability of Dragonnet, a novel neural network-based architecture, in the domain of heterogeneous treatment effect (HTE) estimation using (1) simulation studies and (2) survey experiment data. 
-* Results were promising: Dragonnet outperformed established methods (Bayesian Additive Regression Trees) in simulation studies and were comparable in predictions of causal effects in an empirical welfare attitude experiment.
+* Evaluated performance and reliability of [Dragonnet](https://arxiv.org/abs/1906.02120), a novel neural network-based architecture, in the domain of heterogeneous treatment effect (HTE) estimation using (1) simulation studies and (2) survey experiment data. 
+* Results were promising: Dragonnet outperformed established methods ([Bayesian Additive Regression Trees](http://www.donaldgreen.com/wp-content/uploads/2015/09/BART-Green-Kern-POQ-2012.pdf)) in simulation studies and were comparable in predictions of causal effects in an empirical welfare attitude experiment.
 * Keywords: `Neural Networks`, `Bayesian Additive Regression Trees (BART)`, `Causal Inference`, `Machine Learning`, `Heterogeneous Treatment Effects (HTE)`
 
 
