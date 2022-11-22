@@ -19,6 +19,18 @@ I'm currently a Master's student in Quantitative Methods in the Social Sciences 
 * Results were promising: Dragonnet outperformed established methods ([Bayesian Additive Regression Trees](http://www.donaldgreen.com/wp-content/uploads/2015/09/BART-Green-Kern-POQ-2012.pdf)) in simulation studies and were comparable in predictions of causal effects in an empirical welfare attitude experiment.
 * Keywords: `Neural Networks`, `Bayesian Additive Regression Trees (BART)`, `Causal Inference`, `Machine Learning`, `Heterogeneous Treatment Effects (HTE)`
 
+***A Brief Overview of Male Group’s Social Status Change over the Professional Career Lifecycle of Ballet Dancers*** \[[Report](https://github.com/DuYanji/reactions-critiques/blob/main/YanjiDu_Male%20Group%20Ballet%20Dancer%20Social%20Status%20Change.pdf)\]
+* In this reaction memo, we will try to answer why female dancers are dominated at the early stages of their careers, but unable to grow into higher-status
+positions. 
+* First, we discussed a scenario where no discrimination exists and true capabilities are observable. Female dance professionals as minorities persist in
+statistically sticky disadvantages. 
+* Second, we used the Polya urn schema to model the growing disadvantages of females as the minority group. And we introduced Casella’s
+“Role model” and Rivera’s “Cultural Matching” theories to interpret the mechanism. 
+* In the end, we integrated the Polya urn schema in a social hierarchy framework.
+* Keywords: `Social status`, `Role model effect`, `Polya urn`, `Cultural matching`
+
+***Critique of “Priming COVID-19 Salience Increases Prejudice and Discriminatory Intent against Asians and Hispanics.” (Lu et al., 2021)*** \[[Report](https://github.com/DuYanji/reactions-critiques/blob/main/YanjiDu_Critique_Priming%20COVID-19%20Salience%20Increases%20Prejudice%20and%20Discriminatory%20Intent%20against%20Asians%20and%20Hispanics.pdf)\]
+* Paper summary and critique of [Lu, Yao, Neeraj Kaushal, Xiaoning Huang, and S. Michael Gaddis, 2021](https://doi.org/10.1073/pnas.2105125118). 
 
 ***An Investigation of U.S. COVID-19 Vaccination Rates as a Political Issue*** \[[Report](https://github.com/DuYanji/covid-19-politics/raw/main/An%20Investigation%20of%20U.S.%20COVID-19%20Vaccination%20Rates%20as%20a%20Political%20Issue.pdf)\]
 * Statistical investigation of COVID-19 U.S. vaccination rates as a political issue using county-level CDC and 2020/2016 U.S. election voting data.
