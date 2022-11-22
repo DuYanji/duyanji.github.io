@@ -31,6 +31,7 @@ statistically sticky disadvantages.
 
 ***Critique of “Priming COVID-19 Salience Increases Prejudice and Discriminatory Intent against Asians and Hispanics.” (Lu et al., 2021)*** \[[Report](https://github.com/DuYanji/reactions-critiques/blob/main/YanjiDu_Critique_Priming%20COVID-19%20Salience%20Increases%20Prejudice%20and%20Discriminatory%20Intent%20against%20Asians%20and%20Hispanics.pdf)\]
 * Paper summary and critique of [Lu, Yao, Neeraj Kaushal, Xiaoning Huang, and S. Michael Gaddis, 2021](https://doi.org/10.1073/pnas.2105125118). 
+* Keywords: `COVID-19 pandemic`, `Prejudice and discrimination`, `Hate crimes against Asian-Americans`, `Survey experiment`
 
 ***An Investigation of U.S. COVID-19 Vaccination Rates as a Political Issue*** \[[Report](https://github.com/DuYanji/covid-19-politics/raw/main/An%20Investigation%20of%20U.S.%20COVID-19%20Vaccination%20Rates%20as%20a%20Political%20Issue.pdf)\]
 * Statistical investigation of COVID-19 U.S. vaccination rates as a political issue using county-level CDC and 2020/2016 U.S. election voting data.
